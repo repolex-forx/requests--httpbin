@@ -1,0 +1,47 @@
+{
+  "manifest_version": "1.0",
+  "org": "requests",
+  "repo": "httpbin",
+  "versions": [
+    {
+      "commit": "2607b7e6c78bab21f9791331bdde15c583521c90",
+      "parsed_at": "2026-04-09T18:57:18.258212+00:00",
+      "tag": "v0.7.0",
+      "filetree": "filetree/2607b7e6c78bab21f9791331bdde15c583521c90.nq.gz",
+      "blobs": [
+        "blob/5ff09579e3842100aad840366b3a3031b05bef62.nq.gz",
+        "blob/38fdef3f85f158484928e4306182387da868b5a9.nq.gz",
+        "blob/ec156a9568f5b3b99ebc860ea55077fe639f91ba.nq.gz",
+        "blob/0e8e71598580d71709e95b0ca6b1bef16fc0ad9d.nq.gz",
+        "blob/44da70f04a2b82ffa7471411e4315248a913d06d.nq.gz",
+        "blob/885f52d8de8220b4aa0430061054cd2230611656.nq.gz",
+        "blob/37f5392d54cea2bda1c4bb97a5cd31f5ad93ad10.nq.gz",
+        "blob/6e2e0591b33b8ebdb87c7a8eabb0d50ee35ad177.nq.gz",
+        "blob/18fe967ec7fde547efb5c8570d6a94dbf59b14c5.nq.gz",
+        "blob/63e0d2b9567890ab9b8131407bc62eda50282fa3.nq.gz",
+        "blob/f890b2471ec3f2d20b802abe7fc1d49bddb8cba1.nq.gz",
+        "blob/1983c068f331b930d0977645307a82dd65775623.nq.gz",
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/1a6ec6f27f34bcb38840c0d16a3c49e4d323709e.nq.gz",
+        "blob/9ec972405676f9d77d05b0abe4386107987823e3.nq.gz",
+        "blob/e4b7e589a0e2e96626a14cdbdc990731fe75ec40.nq.gz",
+        "blob/cc0c128257cace9da1d84bb92bbcc4f3a7ed9257.nq.gz",
+        "blob/34049e5eecedce8fce2f80d19fe4494c77fedb31.nq.gz",
+        "blob/a4e824c247f97b4f524b885a358c0d0008e4e161.nq.gz",
+        "blob/726dd626b0ba6e1d947b702a91f075b0bfa52fa4.nq.gz",
+        "blob/63308a83d95b1ea56b5514cdb77186c6fc03ad2e.nq.gz",
+        "blob/4595401b50252633c24558f799cfe50bfeac19e4.nq.gz",
+        "blob/7f9956bd392bbe5b71c6d35d3a32d414d60f480d.nq.gz",
+        "blob/66a2ed64a6f39dfaa41c28034df63a7f841e8d8d.nq.gz",
+        "blob/d46082e89db3007befae4518964644e40e013018.nq.gz",
+        "blob/c6268b6adea2a6192d4ea330b3af8a5b5043ced5.nq.gz",
+        "blob/35abff6fb597ee4762f6200b4370914ba63cc105.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
